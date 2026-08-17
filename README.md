@@ -10,7 +10,8 @@ This project is a simple rule-based AI chatbot built using Python. It responds t
 - Interactive command-line interface
 
 ## Tech Used
-- Python
+- Python is my favorite
+
 
 ## How to Run
 1. Download the file

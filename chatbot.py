@@ -1,12 +1,12 @@
 # AI Chatbot using Prompt Engineering (Basic Version)
 
 def chatbot():
-    print("AI Chatbot: Hello! Type 'bye' to exit.\n")
+    print("AI Chatbot: Hello! Type 'byee' to exit.\n")
 
     while True:
         user = input("You: ").lower()
 
-        if user == "bye":
+        if user == "byee":
             print("AI Chatbot: Goodbye!")
             break
 
